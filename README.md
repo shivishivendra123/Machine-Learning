@@ -63,13 +63,3 @@
 - **Spam Detection using Naive Bayes** (`Spam_Detector_Naive_Bayes.ipynb`, `spam.csv`)  
 - **Heart Disease Prediction using Random Forest** (`Random_forest_heart_data.ipynb`, `heart.csv`)  
 
----
-
-## 🛠️ Getting Started  
-
-### 🔹 Installation & Setup  
-1️⃣ Clone the repository  
-```bash
-git clone https://github.com/your-username/ml-dl-practice.git
-cd ml-dl-practice
-```
